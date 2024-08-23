@@ -1,29 +1,31 @@
-# Clon de el navegador de Google
-Proyecto realizado como practica del bootcamp de Tecnolochicas Proyectos
+# Clon de google
 
-## ¿Qué construí?
+Proyecto creado en Tecnolochicas Pro simulando la página principal de navegador de google.
 
-En este proyecto tuve como proposito contruir la cloncion de la interfaz del navegador de Google.
-Contiene los siguientes elementos:
+******
+Poniendo en practica lo aprendido durante el bootcamp logré reaolizar un clon de explorador.
 
-* Header
-* Main
-* Footer 
+* Puedes visitarlo aquí. [Clon de google](https://googleclon-ten.vercel.app/)
 
-## ¿qué tecnologías utilicé?
+## Contenido del proyecto
 
-![Logo](https://logowik.com/content/uploads/images/css3-html51661.jpg)
+1. Header
 
-## Mi objetivo
-Aprender a utilizar los lenguajes y las etiquetas principales de CSS Y HTML.
+Muestra un menú y foto de perfil de la cuenta
 
-## Mira aquí mi proyecto: 
-[Clonación de Google](https://googleclon-ten.vercel.app/)
+2. Main
+
+Contiene los elementos centrales del buscador
+
+3. Footer 
+
+Incluye Hipervínculos al final de la página
+
+## Vista previa
+
+![Clon](/imagenes/Captura.PNG)
 
 
-
-## 🔗 Más
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://anelmontes.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+Hecha con amor y dedicación por Anel Montes de Oca
 
 
