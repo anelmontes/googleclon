@@ -23,7 +23,7 @@ Incluye Hipervínculos al final de la página
 
 ## Vista previa
 
-![Clon](/imagenes/Captura.PNG)
+![Clon](/imagenes/VistaPrevia.PNG)
 
 
 Hecha con amor y dedicación por Anel Montes de Oca
